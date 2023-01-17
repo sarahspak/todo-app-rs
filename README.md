@@ -1,4 +1,4 @@
-# todo-app 
+# todo-app-rs
 
 Simple todo app cli. Based off [todo-rs](https://github.com/tsoding/todo-rs/).
 
